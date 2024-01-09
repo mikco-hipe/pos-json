@@ -20472,54 +20472,6 @@
             "vegetarian": false,
             "vegan": false,
             "glutenFree": true,
-            "dairyFree": true,
-            "veryHealthy": true,
-            "cheap": false,
-            "veryPopular": false,
-            "sustainable": false,
-            "lowFodmap": false,
-            "weightWatcherSmartPoints": 7,
-            "gaps": "no",
-            "preparationMinutes": -1,
-            "cookingMinutes": -1,
-            "aggregateLikes": 1,
-            "healthScore": 59,
-            "creditsText": "Jen West",
-            "sourceName": "Pink When",
-            "pricePerServing": 315.42,
-            "id": 673457,
-            "title": "Slow Cooker Chili",
-            "readyInMinutes": 45,
-            "servings": 5,
-            "sourceUrl": "http://www.pinkwhen.com/slow-cooker-chili-recipe/",
-            "image": "https://spoonacular.com/recipeImages/673457-312x231.jpg",
-            "imageType": "jpg",
-            "summary": "Slow Cooker Chili is a <b>gluten free and dairy free</b> recipe with 5 servings. One serving contains <b>452 calories</b>, <b>50g of protein</b>, and <b>11g of fat</b>. For <b>$3.15 per serving</b>, this recipe <b>covers 42%</b> of your daily requirements of vitamins and minerals. <b>The Super Bowl</b> will be even more special with this recipe. 1 person has made this recipe and would make it again. Not a lot of people really liked this main course. Head to the store and pick up tomato paste, onions, sugar, and a few other things to make it today. From preparation to the plate, this recipe takes around <b>45 minutes</b>. It is a <b>rather pricey</b> recipe for fans of American food. It is brought to you by Pink When. Taking all factors into account, this recipe <b>earns a spoonacular score of 76%</b>, which is pretty good. Try <a href=\"https://spoonacular.com/recipes/slow-cooker-chili-1650067\">Slow Cooker Chili</a>, <a href=\"https://spoonacular.com/recipes/slow-cooker-chili-1327609\">Slow Cooker Chili</a>, and <a href=\"https://spoonacular.com/recipes/slow-cooker-chili-112593\">Slow Cooker Chili</a> for similar recipes.",
-            "cuisines": [
-                "American"
-            ],
-            "dishTypes": [
-                "lunch",
-                "soup",
-                "main course",
-                "main dish",
-                "dinner"
-            ],
-            "diets": [
-                "gluten free",
-                "dairy free"
-            ],
-            "occasions": [
-                "super bowl"
-            ],
-            "analyzedInstructions": [],
-            "spoonacularScore": 85.45626068115234,
-            "spoonacularSourceUrl": "https://spoonacular.com/slow-cooker-chili-673457"
-        },
-        {
-            "vegetarian": false,
-            "vegan": false,
-            "glutenFree": true,
             "dairyFree": false,
             "veryHealthy": false,
             "cheap": false,
